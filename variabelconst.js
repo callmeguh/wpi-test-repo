@@ -1,4 +1,4 @@
-const nama = "Teguh";
-const lastname = "hehe"
+const hoby = "mencari";
+const lasthoby = "hal baru"
 
 console.log (nama + lastname);

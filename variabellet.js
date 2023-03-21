@@ -1,4 +1,4 @@
 let Teguh;
-Teguh ="Skywalker";
+Teguh ="Laki-laki";
 
 console.log(Teguh);
